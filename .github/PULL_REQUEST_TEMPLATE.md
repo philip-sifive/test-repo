@@ -18,9 +18,9 @@
 ### What needs to be reviewed
 | Section | Reviewer |
 | --- | --- |
-| Reason for change | <i>@Some Manager</i> |
-| Code does what it says | <i>@Peers</i> |
-| Language formatting | <i>@Language team</i> |
+| Reason for change | <i>@ Some Manager</i> |
+| Code does what it says | <i>@ Peers</i> |
+| Language formatting | <i>@ Language team</i> |
 
 ## Risk
 
