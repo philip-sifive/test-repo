@@ -35,3 +35,4 @@
 - [ ] Did a lint check
 - [ ] Correct base branch
 - [ ] Added neccessary comments on hard logics
+- [ ] Added correct labels
